@@ -7,5 +7,4 @@ Es una pastelería que ofrece a sus clientes la posibilidad de crear su propio p
 De igual manera, muestra al panadero los pedidos y la cantidad de ingredientes que le restan.
 
 Puedes observar el website desplegado [aquí](https://santo-pan.netlify.app/).
-<br>
-<sub><sup>Esta página se encuentra en progreso, se agregarán mejoras.</sup></sup>
+Proyecto actualizado en [VueJs](https://github.com/dev-LuisSM/Santo-Pan).
